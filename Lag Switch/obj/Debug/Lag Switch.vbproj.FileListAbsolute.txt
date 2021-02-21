@@ -1,0 +1,12 @@
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\bin\Debug\Lag Switch.exe.config
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\bin\Debug\Lag Switch.exe
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\bin\Debug\Lag Switch.pdb
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\bin\Debug\Lag Switch.xml
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag Switch.vbprojAssemblyReference.cache
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag_Switch.Form1.resources
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag_Switch.Resources.resources
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag Switch.vbproj.GenerateResource.cache
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag Switch.vbproj.CoreCompileInputs.cache
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag Switch.exe
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag Switch.xml
+C:\Users\sam\source\repos\Lag Switch\Lag Switch\obj\Debug\Lag Switch.pdb
